@@ -1,0 +1,12 @@
+
+MOV r0, #0xff
+MOV R0, #FFFFFFF8
+MOV R1, #0F
+ADDS R1, R0, R1
+BCS 0x2
+MOV R0, #4
+MOV R0, #5
+MOV R0, #6
+MOV R0, #7
+ANDEQ r0, r0, r0
+

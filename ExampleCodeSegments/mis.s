@@ -1,0 +1,8 @@
+MOV R0, #0X22
+MOV R2, #8
+MOV R1, #20
+ADD R3, R2, R0, ROR #23
+ADD R3, R2, R0, LSR #2
+
+
+
