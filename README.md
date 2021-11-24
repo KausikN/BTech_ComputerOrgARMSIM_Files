@@ -1,10 +1,10 @@
 # BTech_ComputerOrgARMSIM_Files
 
-:book: Academic Files and Codes
+📖 Academic Files and Codes
 
 ## Institute
 
-:student: B.Tech (H), IIITDM Kancheepuram
+🧑‍🎓 B.Tech (H), IIITDM Kancheepuram
 
 ## Course
 
@@ -15,23 +15,23 @@
 ## Codes
 
  - Exercise 1
-    - [1](Exercise_1/1.s)
+    - [1](Exercises/Exercise_1/1.s)
  - Exercise 2
-    - [2](Exercise_2/2.s)
+    - [2](Exercises/Exercise_2/2.s)
  - Exercise 3
-    - [3_a](Exercise_3/3_a.s)
-    - [3_b](Exercise_3/3_b.s)
+    - [3_a](Exercises/Exercise_3/3_a.s)
+    - [3_b](Exercises/Exercise_3/3_b.s)
  - Exercise 4
-    - [4](Exercise_4/4.s)
+    - [4](Exercises/Exercise_4/4.s)
  - Exercise 5
-    - [5](Exercise_5/5.s)
+    - [5](Exercises/Exercise_5/5.s)
  - Exercise 6
-    - [6](Exercise_6/6.s)
+    - [6](Exercises/Exercise_6/6.s)
  - Exercise 14
-    - [14](Exercise_14/14.s)
- - [Long Bit Addition](LongBitAddition/LongBitAddition.s)
- - [Addition](OtherCodes/Addition.s)
- - [Multiply](OtherCodes/Multiply.s)
- - [File IO](OtherCodes/FileIO.s)
- - [Output](OtherCodes/Output.s)
+    - [14](Exercises/Exercise_14/14.s)
+ - [Long Bit Addition](Exercises/LongBitAddition/LongBitAddition.s)
+ - [Addition](Codes/Addition.s)
+ - [Multiply](Codes/Multiply.s)
+ - [File IO](Codes/FileIO.s)
+ - [Output](Codes/Output.s)
  - [Reference Codes](References/ExampleCodes/)
