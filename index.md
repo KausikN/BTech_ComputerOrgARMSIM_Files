@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+# BTech Computer Organisation ARMSIM Files
 
-You can use the [editor on GitHub](https://github.com/KausikN/BTech_ComputerOrgARMSIM_Files/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+📖 Academic Files and Codes
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Institute
 
-### Markdown
+🧑‍🎓 B.Tech (H), IIITDM Kancheepuram
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Course
 
-```markdown
-Syntax highlighted code block
+|    Name    |   Roll No   | SEM |               Course Name                 |
+| :--------: | :---------: | :-: | :---------------------------------------: |
+|  N Kausik  |  COE17B010  |  4  | Computer Organisation and Design Practice |
 
-# Header 1
-## Header 2
-### Header 3
+## Codes
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KausikN/BTech_ComputerOrgARMSIM_Files/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+ - Exercise 1
+    - [1](Exercises/Exercise_1/1.s)
+ - Exercise 2
+    - [2](Exercises/Exercise_2/2.s)
+ - Exercise 3
+    - [3_a](Exercises/Exercise_3/3_a.s)
+    - [3_b](Exercises/Exercise_3/3_b.s)
+ - Exercise 4
+    - [4](Exercises/Exercise_4/4.s)
+ - Exercise 5
+    - [5](Exercises/Exercise_5/5.s)
+ - Exercise 6
+    - [6](Exercises/Exercise_6/6.s)
+ - Exercise 14
+    - [14](Exercises/Exercise_14/14.s)
+ - [Long Bit Addition](Exercises/LongBitAddition/LongBitAddition.s)
+ - [Addition](Codes/Addition.s)
+ - [Multiply](Codes/Multiply.s)
+ - [File IO](Codes/FileIO.s)
+ - [Output](Codes/Output.s)
+ - [Reference Codes](References/ExampleCodes/)
