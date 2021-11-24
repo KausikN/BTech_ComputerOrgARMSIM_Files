@@ -1,4 +1,4 @@
-# BTech_ComputerOrgARMSIM_Files
+# BTech Computer Organisation ARMSIM Files
 
 📖 Academic Files and Codes
 
